@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  iam-cloudentity-proxy:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-07-27T12:51:57.178657-04:00"
+    description: IAM CloudEntity Proxy Service Helm chart for Kubernetes
+    digest: 41ee1411cedce4d725823591b19606e641c627c88ca08acdc59e9d2cad69ec9f
+    name: iam-cloudentity-proxy
+    urls:
+    - https://acusworth.github.io/iam-proxy/iam-cloudentity-proxy-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-07-27T12:51:57.176979-04:00"

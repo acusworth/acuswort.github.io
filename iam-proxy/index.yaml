@@ -3,9 +3,9 @@ entries:
   cloudentity-acp-levitate:
   - apiVersion: v2
     appVersion: 1.0.0-11
-    created: "2021-07-29T12:26:42.530929-04:00"
+    created: "2021-07-29T12:32:13.830542-04:00"
     description: Cloudentity Authorization Control Plane Helm chart for Kubernetes
-    digest: 97c843bdfb297b73fb3af3be2b5462ae653db579818aff75382a904f627eb7f5
+    digest: d3c0687fa437c4cd9373e01f38f4d4e3f6a6b5ebb27f2b31ee740641f481826a
     maintainers:
     - name: Identity and Access Management
     name: cloudentity-acp-levitate
@@ -14,7 +14,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.0.0-11
-    created: "2021-07-29T12:26:42.529706-04:00"
+    created: "2021-07-29T12:32:13.827937-04:00"
     description: Cloudentity Authorization Control Plane Helm chart for Kubernetes
     digest: f9a023566ace329591fb876c0a7efb12659a84a962d5be268f1338a5a59529a5
     maintainers:
@@ -26,7 +26,7 @@ entries:
   iam-cloudentity-proxy:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-07-29T12:26:42.532081-04:00"
+    created: "2021-07-29T12:32:13.833418-04:00"
     description: IAM CloudEntity Proxy Service Helm chart for Kubernetes
     digest: 69323e9d5fbac1fdd12c1b9d5ad3dd5599843f40966610703068f9b5c8df1a98
     maintainers:
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://acusworth.github.io/iam-proxy/iam-cloudentity-proxy-0.0.1.tgz
     version: 0.0.1
-generated: "2021-07-29T12:26:42.52696-04:00"
+generated: "2021-07-29T12:32:13.825989-04:00"

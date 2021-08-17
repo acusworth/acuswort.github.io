@@ -3,7 +3,7 @@ entries:
   cloudentity-acp-levitate:
   - apiVersion: v2
     appVersion: 1.0.0-11
-    created: "2021-08-04T18:19:50.422631-04:00"
+    created: "2021-08-17T11:59:45.985424-04:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -22,10 +22,22 @@ entries:
     urls:
     - https://acusworth.github.io/iam-proxy/cloudentity-acp-levitate-0.0.2.tgz
     version: 0.0.2
+  cloudentity-wiremock:
+  - apiVersion: v1
+    appVersion: 1.0.0-17
+    created: "2021-08-17T11:59:45.986297-04:00"
+    description: The Cloudentity Wiremock is a mocked version of ACP for testing
+    digest: 09e000359f630b4eabc21d0ed27b06cbc894033e34548a8a32fab32f955e1376
+    maintainers:
+    - name: Identity and Access Management
+    name: cloudentity-wiremock
+    urls:
+    - https://acusworth.github.io/iam-proxy/cloudentity-wiremock-0.0.1.tgz
+    version: 0.0.1
   iam-cloudentity-proxy:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-08-04T18:19:50.423539-04:00"
+    created: "2021-08-17T11:59:45.987779-04:00"
     description: IAM CloudEntity Proxy Service Helm chart for Kubernetes
     digest: fde1d73f4f8be8840643aa91c079beb96173c4a640a82a73836abb006305095e
     maintainers:
@@ -34,4 +46,4 @@ entries:
     urls:
     - https://acusworth.github.io/iam-proxy/iam-cloudentity-proxy-0.0.1.tgz
     version: 0.0.1
-generated: "2021-08-04T18:19:50.412711-04:00"
+generated: "2021-08-17T11:59:45.973147-04:00"
